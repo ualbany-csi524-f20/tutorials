@@ -4,6 +4,7 @@
   * Minimum recommended disk space of virtual memory: 15 GB
 
 Note: Although it is not necessary to create a virtual machine that matches the minimum specs required for ubuntu installation, you may refer to them here: https://help.ubuntu.com/community/Installation/SystemRequirements
+
 Since Oracle VM VirtualBox allocates the portion of the host machine's RAM to the virtual machine, it is important to strike a balance between the minimum required specs for Ubuntu vs allocable RAM for the virtual machine.
 
   * Run your virtual machine by double-clicking on the entry within the manager window (or by selecting it and clicking on 'start')
