@@ -1,5 +1,5 @@
 1. Download Ubuntu 17.10 .iso file (bottom of the page) here: https://www.ubuntu.com/download/desktop
-2. Installing Ubuntu 17.10 on Virtual Machine:
+1. Installing Ubuntu 17.10 on Virtual Machine:
   *	Create your first virtual machine, refer: https://www.virtualbox.org/manual/ch01.html#gui-createvm
   * Minimum recommended disk space of virtual memory: 15 GB
 
@@ -12,11 +12,11 @@ Since Oracle VM VirtualBox allocates the portion of the host machine's RAM to th
   * Follow the instructions and install Ubuntu with the default settings
   *	Alternatively you could select 'Something else' in the 'Installation type' screen to customize your installation with different memory allocation (for better performance), refer: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation
 Note: Create swap area twice as big as the RAM size of virtual machine. Example: if virtual memory RAM is 2 GB then swap area should be 4GB
-3. Installing Ubuntu in dual boot mode:
+1. Installing Ubuntu in dual boot mode:
   * Create a bootable USB stick:
-    i. Using windows: https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0
-    ii. Using Mac OS: https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#0
+    1. Using windows: https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0
+    1. Using Mac OS: https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#0
   * Backup all data on your system
   * Dual boot with windows: https://help.ubuntu.com/community/WindowsDualBoot
-    i. Additional documentation: https://www.lifewire.com/ultimate-windows-8-1-ubuntu-dual-boot-guide-2200654
+    1. Additional documentation: https://www.lifewire.com/ultimate-windows-8-1-ubuntu-dual-boot-guide-2200654
   * Dual boot with Mac OS: https://www.lifewire.com/dual-boot-linux-and-mac-os-4125733
