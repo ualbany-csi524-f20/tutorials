@@ -14,7 +14,7 @@ Since Oracle VM VirtualBox allocates the portion of the host machine's RAM to th
 
 Note: Create swap area twice as big as the RAM size of virtual machine. Example: if virtual memory RAM is 2 GB then swap area should be 4GB
 
-1. Installing Ubuntu in dual boot mode:
+3. Installing Ubuntu in dual boot mode:
   * Create a bootable USB stick:
     1. Using windows: https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0
     1. Using Mac OS: https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#0
