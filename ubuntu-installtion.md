@@ -11,7 +11,9 @@ Since Oracle VM VirtualBox allocates the portion of the host machine's RAM to th
   * If you are running your virtual machine for the first time you will be asked to select the path to the downloaded Ubuntu 17.10 .iso file (to install the OS in the virtual machine)
   * Follow the instructions and install Ubuntu with the default settings
   *	Alternatively you could select 'Something else' in the 'Installation type' screen to customize your installation with different memory allocation (for better performance), refer: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation
+
 Note: Create swap area twice as big as the RAM size of virtual machine. Example: if virtual memory RAM is 2 GB then swap area should be 4GB
+
 1. Installing Ubuntu in dual boot mode:
   * Create a bootable USB stick:
     1. Using windows: https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-windows#0
