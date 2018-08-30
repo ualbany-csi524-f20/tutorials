@@ -1,7 +1,7 @@
-# Ubuntu Installation
-1. Download Ubuntu 17.10 .iso file (bottom of the page) here: https://www.ubuntu.com/download/desktop
-1. Installing Ubuntu 17.10 on Virtual Machine:
-  *	Create your first virtual machine, refer: https://www.virtualbox.org/manual/ch01.html#gui-createvm
+# Installing Your Own Ubuntu (not the SEED version)
+1. Download Ubuntu .iso file (bottom of the page) here: https://www.ubuntu.com/download/desktop
+1. Installing Ubuntu on Virtual Machine:
+  *	Create your first virtual machine, refer to: https://www.virtualbox.org/manual/ch01.html#gui-createvm
   * Minimum recommended disk space of virtual memory: 15 GB
 
 Note: Although it is not necessary to create a virtual machine that matches the minimum specs required for ubuntu installation, you may refer to them here: https://help.ubuntu.com/community/Installation/SystemRequirements
@@ -9,7 +9,7 @@ Note: Although it is not necessary to create a virtual machine that matches the 
 Since Oracle VM VirtualBox allocates the portion of the host machine's RAM to the virtual machine, it is important to strike a balance between the minimum required specs for Ubuntu vs allocable RAM for the virtual machine.
 
   * Run your virtual machine by double-clicking on the entry within the manager window (or by selecting it and clicking on 'start')
-  * If you are running your virtual machine for the first time you will be asked to select the path to the downloaded Ubuntu 17.10 .iso file (to install the OS in the virtual machine)
+  * If you are running your virtual machine for the first time you will be asked to select the path to the downloaded Ubuntu  .iso file (to install the OS in the virtual machine)
   * Follow the instructions and install Ubuntu with the default settings
   *	Alternatively you could select 'Something else' in the 'Installation type' screen to customize your installation with different memory allocation (for better performance), refer: https://askubuntu.com/questions/343268/how-to-use-manual-partitioning-during-installation
 
