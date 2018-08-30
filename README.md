@@ -9,8 +9,8 @@ In this class, we will use virtual machines to practice with various security co
 
 # Other Guides
 
-[Installing Ubuntu (original, not the SEED version)](ubuntu-installtion.md)
-
 [Text editors](text-editors.md)
 
 [SSH Command](ssh-commands.md) (for connetcing to remote hosts)
+
+[Installing Ubuntu (original, not the SEED version)](ubuntu-installtion.md)
