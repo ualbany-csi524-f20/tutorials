@@ -9,6 +9,8 @@ In this class, we will use virtual machines to practice with various security co
 
 # Other Guides
 
+[Readings on Systems Programming](http://www.cs.albany.edu/~amir/courses/csi402-s18/#schedule): Many readings from the systems programming course would be helpful including refresher on C basics, gcc, gdb, and system calls. 
+
 [Git](git.md)
 
 [Text editors](text-editors.md)
