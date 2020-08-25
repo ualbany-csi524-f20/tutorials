@@ -9,10 +9,8 @@ In this class, we will use virtual machines to practice with various security co
 
 # Other Guides
 
-[Git](git.md)
-
-[Text editors](text-editors.md)
-
-[Installing Ubuntu (original, not the SEED version)](ubuntu-installtion.md)
-
-[Readings on Systems Programming](http://www.cs.albany.edu/~amir/courses/csi402-f19/#schedule): Many readings from the systems programming course would be helpful including refresher on C basics, gcc, gdb, and system calls.
+- [Git](git.md)
+- [Connecting to GitHub using SSH](https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh): Recommended for more secure and conveninet connection to GitHub.
+- [Readings on Systems Programming](http://www.cs.albany.edu/~amir/courses/csi402-f19/#schedule): Many readings from the systems programming course would be helpful including refresher on C basics, gcc, gdb, and system calls.
+- [Text editors](text-editors.md)
+- [Installing Ubuntu](ubuntu-installtion.md): Not needed for this class. Just in case you want to have a fresh Linux installation.
